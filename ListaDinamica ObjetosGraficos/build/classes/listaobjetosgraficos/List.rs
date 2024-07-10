@@ -1,0 +1,2 @@
+listaobjetosgraficos.ListNode
+listaobjetosgraficos.List
